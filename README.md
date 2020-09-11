@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[](http://example.com)
+[](https://hashnode.com/@lawalalao)
 
 **lawalalao/lawalalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
