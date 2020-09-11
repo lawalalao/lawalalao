@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![08.jpg](https://cdn.hashnode.com/res/hashnode/image/upload/v1599835182823/M0lhsT1KG.png)
+https://github.com/lawalalao/lawalalao/blob/master/8.jpg
+
 **lawalalao/lawalalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
