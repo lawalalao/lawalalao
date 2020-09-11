@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-https://github.com/lawalalao/lawalalao/blob/master/8.jpg
+[](http://example.com)
 
 **lawalalao/lawalalao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on 4 mobile apps...
+- 🔭 I’m currently working on 4 mobile apps and my blog...
 - 🌱 I’m currently learning #machine learning with Python...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with opensource project
