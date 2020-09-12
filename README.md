@@ -1,7 +1,7 @@
 <img src="https://github.com/lawalalao/lawalalao/blob/master/linkedin_banner.png" />
 
 <h1>Hi Traveller, I am <a href="https://lawalalao.github.io/#/">Lawal ALAO</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
-<img align='right' src="https://github.com/lawalalao/lawalalao/blob/master/2.jpeg" width="230" />
+<img align='right' src="https://github.com/lawalalao/lawalalao/blob/master/2.jpg" width="230" />
 
 <a href="https://www.linkedin.com/in/lawal-alao-168147188/"><img src="https://github.com/lawalalao/lawalalao/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/lawalalao"><img src="https://github.com/lawalalao/lawalalao/blob/master/logos/github-logo.png" width="40" /></a>
