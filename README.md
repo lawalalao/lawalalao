@@ -17,6 +17,7 @@
 </details>
 <details>
 <summary>Font end Developer 🍥</summary>
+ <summary>Mobile developper 🍥</summary>
  
 </details>
 
