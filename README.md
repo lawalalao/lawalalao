@@ -10,7 +10,7 @@
 <a href="https://twitter.com/AdechinaAlao"><img src="https://github.com/lawalalao/lawalalao/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/lito_adechina/"><img src="https://github.com/lawalalao/lawalalao/blob/master/logos/instagram.png" width="40" /></a>
 
-<h3>ce que je fais 👨‍💻</h3>
+<h3>what i do👨‍💻</h3>
 <details>
 <summary>Data Scientist 📊</summary>
 
