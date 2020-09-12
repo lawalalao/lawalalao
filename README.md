@@ -17,10 +17,12 @@
 </details>
 <details>
 <summary>Font end Developer 🍥</summary>
+  </details>
+ <details>
  <summary>Mobile developper 🍥</summary>
- 
-</details>
 
+</details>
+ <details>
 <summary>Opensource Contributor 📝</summary>
   <ul>
     <li>You can get detailed information of my contributions <a href="https://lawalalao.github.io/#/">here</a>.</li>
