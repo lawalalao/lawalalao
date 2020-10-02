@@ -16,7 +16,7 @@
 
 </details>
 <details>
-<summary>Font end Developer 🍥</summary>
+<summary>Full stack Developer 🍥</summary>
   </details>
  <details>
  <summary>Mobile developper 🍥</summary>
