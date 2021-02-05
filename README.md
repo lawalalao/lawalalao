@@ -11,15 +11,12 @@
 <a href="https://www.instagram.com/lito_adechina/"><img src="https://github.com/lawalalao/lawalalao/blob/master/logos/instagram.png" width="40" /></a>
 
 <h3>what i do👨‍💻</h3>
-<details>
-<summary>Data Scientist 📊</summary>
 
-</details>
 <details>
 <summary>Full stack Developer 🍥</summary>
   </details>
  <details>
- <summary>Mobile developper 🍥</summary>
+ <summary>Mobile App developper 🍥</summary>
 
 </details>
  <details>
