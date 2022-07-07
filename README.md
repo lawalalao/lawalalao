@@ -46,7 +46,7 @@ O: Open minded to create new things
   <summary>How can I believe that you are good at what you do? 🤷‍♂️</summary>
   <ul>
     <li>In Sept. 2019, created the web site ecommerce of ameak.com</li>
-    <li>In September 2020 started building web application that you will soon see </li>
+    <li>In September 2020 built @chapchap </li>
       <li>In August 2020 started writing Articles on my blog hosted on Hashnode Platforms </li>
     <li>In March 2020, I designed application architecture for a startup named Kabaa</li>
   </ul>
@@ -55,7 +55,7 @@ O: Open minded to create new things
 <summary>What do you do other than building applications ? 💁‍♂️</summary>
   <ul>
     <li>I write blogs about powerful lessons in personal changes. You can visit my blog site at <a href="https://lawaltech.hashnode.dev/">lawaltech.hashnode.dev/</a>.</li>
-    <li> We work for educating students to deal with very basic but important problems which eventually build their character.</li>
+    <li> We work for educating students to deal with very basic but important problems which eventually build their future.</li>
     <li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma and Canva</li>
   </ul>
 </details>
