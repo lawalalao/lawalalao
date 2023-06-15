@@ -1,5 +1,5 @@
-<img src="https://github.com/lawalalao/lawalalao/blob/master/linkedin_banner.png" />
 
+<a href="https://app.daily.dev/codeevangelist"><img src="https://api.daily.dev/devcards/59e77761052c493d9fcf93696ac98db0.png?r=j50" width="400" alt="alao's Dev Card"/></a>
 <h1>Hi Traveller, I am <a href="https://lawalalao.github.io/#/">Lawal ALAO</a><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 <img align='right' src="https://github.com/lawalalao/lawalalao/blob/master/2.jpg" width="230" />
 
@@ -9,7 +9,6 @@
 <a href="mailto:lawalalaoad@gmail.com"><img src="https://github.com/lawalalao/lawalalao/blob/master/logos/google-plus.png" width="40" /></a>
 <a href="https://twitter.com/AdechinaAlao"><img src="https://github.com/lawalalao/lawalalao/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/lito_adechina/"><img src="https://github.com/lawalalao/lawalalao/blob/master/logos/instagram.png" width="40" /></a>
-<a href="https://app.daily.dev/codeevangelist"><img src="https://api.daily.dev/devcards/59e77761052c493d9fcf93696ac98db0.png?r=j50" width="400" alt="alao's Dev Card"/></a>
 <h3>what i do👨‍💻</h3>
 
 <details>
