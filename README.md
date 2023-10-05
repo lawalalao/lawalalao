@@ -44,10 +44,13 @@ O: Open minded to create new things
 <details>
   <summary>How can I believe that you are good at what you do? 🤷‍♂️</summary>
   <ul>
-    <li>In Sept. 2019, created the web site ecommerce of ameak.com</li>
+    <li>Since 2018, Helping thousand of student all over the world</li>
     <li>In September 2020 built @chapchap </li>
       <li>In August 2020 started writing Articles on my blog hosted on Hashnode Platforms </li>
     <li>In March 2020, I designed application architecture for a startup named Kabaa</li>
+    <li>In 2022, worked with GIZ , UNICEF, and agricultural, breeding and fishery ministry of Benin and created my digital agency Digital-Elevate</li>
+    <li>In 2023, joined @epitech campus Paris as technical project and pedagogical manager</li>
+
   </ul>
 </details>
 <details>
